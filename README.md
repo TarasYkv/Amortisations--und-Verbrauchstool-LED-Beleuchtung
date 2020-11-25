@@ -18,9 +18,9 @@ Die App besteht insgesamt aus 5 Tabs. Man wird vom ersten bis zum letzten Tab en
 
 **Tab1:**  
 Hier gibt es die Möglichkeit eine Bestandsanlage zum Vergleich aufzunehmen. Es gibt drei Modi: Kundenspezifisch, Industriebeleuchtung und Straßenbeleuchtung.   
-*Kundenspezifisch: hier sind alle Daten händisch einzugeben  
-*Industriebeleuchtung: hier wird anhand von Schichtarbeiten bzw. Arbeitstagen pro Woche berechnet werden wie die Anlage betrieben wird.  
-*Straßenbeleuchtung: bei dieser Anlagenart wird zusätzlich in drei Betriebsarten unterschieden: Ganznacht, Abschaltung spätnachts, Dimmung spätnachts. In abhängigkeit von den Angaben wird automatisch der durchschnittliche Zeitwert pro Tag berechnet. Dabei wird sind am Sonnenuntergang und Sonnenaufgang orientiert (+-15min).  
+- [x] Kundenspezifisch: hier sind alle Daten händisch einzugeben  
+- [x] Industriebeleuchtung: hier wird anhand von Schichtarbeiten bzw. Arbeitstagen pro Woche berechnet werden wie die Anlage betrieben wird.  
+- [x] Straßenbeleuchtung: bei dieser Anlagenart wird zusätzlich in drei Betriebsarten unterschieden: Ganznacht, Abschaltung spätnachts, Dimmung spätnachts. In abhängigkeit von den Angaben wird automatisch der durchschnittliche Zeitwert pro Tag berechnet. Dabei wird sind am Sonnenuntergang und Sonnenaufgang orientiert (+-15min).  
 **Tab2:**  
 Im zweiten Tab werden Angaben zu den Leuchten gemacht. Falls erwünscht auch Angaben zum Lichtmanagementsystem.  
 **Tab 3:**  
@@ -36,28 +36,3 @@ Um die Bedienung möglichst einfach zu gestalten, wird dieses Tool als eine .exe
 # Updates
 Beim Programstart wird überprüft ob die ausgeführte Version die aktuellste ist. Falls nein, wird die aktuellste Version vom Server Heruntergeladen, die installierte Version wird deinstalliert und die heruntergeladene installiert.
 
-## UML diagrams
-
-You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For example, this will produce a sequence diagram:
-
-```mermaid
-sequenceDiagram
-Alice ->> Bob: Hello Bob, how are you?
-Bob-->>John: How about you John?
-Bob--x Alice: I am good thanks!
-Bob-x John: I am good thanks!
-Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
-
-Bob-->Alice: Checking with John...
-Alice->John: Yes... John, how are you?
-```
-
-And this will produce a flow chart:
-
-```mermaid
-graph LR
-A[Square Rect] -- Link text --> B((Circle))
-A --> C(Round Rect)
-B --> D{Rhombus}
-C --> D
-```
