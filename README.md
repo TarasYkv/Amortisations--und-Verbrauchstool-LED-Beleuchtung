@@ -50,7 +50,7 @@ Beim Programstart wird überprüft ob die ausgeführte Version die aktuellste is
 ![GUI Bilder](screenshots/6.JPG)
 ![GUI Bilder](screenshots/7.JPG)
 ![GUI Bilder](screenshots/8.JPG)
-Tab 5 - Erzeugung des Berichts
+## Tab 5 - Erzeugung des Berichts
 ![GUI Bilder](screenshots/9.JPG)
-.pdf Bericht
+## .pdf Bericht
 ![GUI Bilder](screenshots/10.JPG)
