@@ -1,0 +1,35 @@
+# V2.8 
+- Vervollständigung der Word-Datei 
+- Update durch über den Server: www.digital-ies.de 
+- Automatischer Update-Button im Tab 1
+# 2.9 
+- Erweiterung durch Screenshots im Bericht mit checkBox 'verwendete 
+   Parameter' im Tab 5
+- Erweiterung im Punkt 'Menü' mit dem Unterpunkt 'Releas Notes'
+- Rechtschreibfehler 
+- Musterbild automatisch einbinden + checkBox
+- Auslagerung von 'Releas Notes' in '/version/releasNotes.txt'
+# 3.0
+- F11 stellt das Fenster im Fullscreen dar
+- Esc schließt das Fenster
+- im Menü kann die Schriftgröße geändert werden
+- Skalierung im Menü hinzugefügt
+- Im Menü Option "Darstellung" hinzugefügt
+- Automatische Skalierung 
+- bei Skale >=150% wird immer 150% angewendet
+- weitere Punkte im Menü (Minimieren, Maximieren, 1100x600)
+# 3.1
+- Installationskosten Berechnung hinzugefügt
+#3.2
+- blauen Farbverlauf verbessert
+- Arten der Anlage hinzugefügt
+- Arten: Kundenspezifisch, Industriebeleuchtung, Straßenbeleuchtung
+- Industriebeleuchtung: Arbeitstage und Arbeitszeit autom. Berechnung und Eintragung. Tage und Stunden/Tag werden 
+autom. übernommen
+- Straßenbeleuchtung: Ganznacht, Abschaltung und Dimmung spätnachts. Es wird vollatom. berechnet wie lange die Leuchten An/Aus 
+oder gedimmt sind
+- Erneuerung einer Bestandsanlage hinzugefügt
+- Deaktivierung von Lichtmanagement bei Art-> Straßenbeleuchtung
+- Kalenderfunktion Erweiterung durch Ferientage hinzufegügt
+- Infobutton bei Zusammenfassung Amortisationszeitraum hinzugefügt
+
