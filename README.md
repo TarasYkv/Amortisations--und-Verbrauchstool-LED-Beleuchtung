@@ -23,7 +23,7 @@ Hier gibt es die Möglichkeit eine Bestandsanlage zum Vergleich aufzunehmen. Es 
 -> Straßenbeleuchtung: bei dieser Anlagenart wird zusätzlich in drei Betriebsarten unterschieden: Ganznacht, Abschaltung spätnachts, Dimmung spätnachts. In abhängigkeit von den Angaben wird automatisch der durchschnittliche Zeitwert pro Tag berechnet. Dabei wird sind am Sonnenuntergang und Sonnenaufgang orientiert (+-15min).
 Tab2:
 Im zweiten Tab werden Angaben zu den Leuchten gemacht. Falls erwünscht auch Angaben zum Lichtmanagementsystem.
-Tab 3:
+**Tab 3:**
 Im dritten Tab werden genaue Angaben zum Betreiben des Lichtmanagementsystsems gemacht. Im ersgten Teil ist es möglich die Konfigutrationen der Bewegungsmelder anzugeben. Diese können zeitgleich durch eine Tageslichtanhängige Regelung gesteuert werden. Teil zwei macht es möglich Konfiguratioen der Anlage oder auch einen Teil der Anlage durch tageslichabhängige aufzunehmen. Der letzte Teil stellt die kalenderfunktion dar. Hier können zum Beispiel Ferientrage oder Tage an denen die Anlage komplett ausgeschaltet bleibt angegeben werden.
 Im Tab 4 werden die berechnetetn Ergebnisse grafisch dargestellt.
 Tag 5 erzeugt eine .doc und eine .pdf mit entsprechendem Text und Bildern der Ergebnisse.
