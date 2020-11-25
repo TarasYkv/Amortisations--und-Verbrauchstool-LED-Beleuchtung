@@ -18,9 +18,9 @@ Die App besteht insgesamt aus 5 Tabs. Man wird vom ersten bis zum letzten Tab en
 
 **Tab1:**  
 Hier gibt es die Möglichkeit eine Bestandsanlage zum Vergleich aufzunehmen. Es gibt drei Modi: Kundenspezifisch, Industriebeleuchtung und Straßenbeleuchtung.   
-- [x] Kundenspezifisch: hier sind alle Daten händisch einzugeben  
-- [x] Industriebeleuchtung: hier wird anhand von Schichtarbeiten bzw. Arbeitstagen pro Woche berechnet werden wie die Anlage betrieben wird.  
-- [x] Straßenbeleuchtung: bei dieser Anlagenart wird zusätzlich in drei Betriebsarten unterschieden: Ganznacht, Abschaltung spätnachts, Dimmung spätnachts. In abhängigkeit von den Angaben wird automatisch der durchschnittliche Zeitwert pro Tag berechnet. Dabei wird sind am Sonnenuntergang und Sonnenaufgang orientiert (+-15min).  
+Kundenspezifisch: hier sind alle Daten händisch einzugeben  
+Industriebeleuchtung: hier wird anhand von Schichtarbeiten bzw. Arbeitstagen pro Woche berechnet werden wie die Anlage betrieben wird.  
+Straßenbeleuchtung: bei dieser Anlagenart wird zusätzlich in drei Betriebsarten unterschieden: Ganznacht, Abschaltung spätnachts, Dimmung spätnachts. In abhängigkeit von den Angaben wird automatisch der durchschnittliche Zeitwert pro Tag berechnet. Dabei wird sind am Sonnenuntergang und Sonnenaufgang orientiert (+-15min).  
 **Tab2:**  
 Im zweiten Tab werden Angaben zu den Leuchten gemacht. Falls erwünscht auch Angaben zum Lichtmanagementsystem.  
 **Tab 3:**  
