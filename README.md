@@ -27,12 +27,12 @@ Im zweiten Tab werden Angaben zu den Leuchten gemacht. Falls erwünscht auch Ang
 **Tab 3:**  
 Im dritten Tab werden genaue Angaben zum Betreiben des Lichtmanagementsystsems gemacht. Im ersgten Teil ist es möglich die Konfigutrationen der Bewegungsmelder anzugeben. Diese können zeitgleich durch eine Tageslichtanhängige Regelung gesteuert werden. Teil zwei macht es möglich Konfiguratioen der Anlage oder auch einen Teil der Anlage durch tageslichabhängige aufzunehmen. Der letzte Teil stellt die kalenderfunktion dar. Hier können zum Beispiel Ferientrage oder Tage an denen die Anlage komplett ausgeschaltet bleibt angegeben werden.  
 **Tab 4**  
-Im Tab 4 werden die berechnetetn Ergebnisse grafisch dargestellt.  
+Im Tab 4 werden die berechneten Ergebnisse grafisch dargestellt.  
 **Tab 5**  
 Tab 5 erzeugt eine .doc und eine .pdf mit entsprechendem Text und Bildern der Ergebnisse.  
 
 # Installation
-Um die Bedienung möglichst einfach zu gestalten, wird dieses Tool als eine .exe zur verfügung gestellt. Diese .exe ist eine Installationsdatei welche ohne Adminrechte installiert werden kann. Die Installationsdatei wird durch "auto-py-to-exe" und "Inno Setup Compiler" erzeugt. 
+Um die Bedienung möglichst einfach zu gestalten, wird dieses Tool als eine .exe zur verfügung gestellt. Diese .exe ist eine Installationsdatei welche ohne Adminrechte installiert werden kann. Die Installationsdatei wird durch "auto-py-to-exe" und "Inno Setup Compiler" erzeugt. Kein Teil der Repository, kann jedoch mit etwas Geschick durch genannte Programme erzeugt werden. 
 
 # Updates
 Beim Programstart wird überprüft ob die ausgeführte Version die aktuellste ist. Falls nein, wird die aktuellste Version vom Server Heruntergeladen, die installierte Version wird deinstalliert und die heruntergeladene installiert.
@@ -46,7 +46,7 @@ Beim Programstart wird überprüft ob die ausgeführte Version die aktuellste is
 ![GUI Bilder](screenshots/3.JPG)
 ## Tab 3 - Angaben zum Lichtmanagement
 ![GUI Bilder](screenshots/4.JPG)
-## Tab 4 - Darstellung der Ergenisse
+## Tab 4 - Darstellung der Ergebnisse
 ![GUI Bilder](screenshots/5.JPG)
 ![GUI Bilder](screenshots/6.JPG)
 ![GUI Bilder](screenshots/7.JPG)
