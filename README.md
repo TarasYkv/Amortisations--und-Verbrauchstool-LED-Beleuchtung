@@ -39,15 +39,18 @@ Beim Programstart wird überprüft ob die ausgeführte Version die aktuellste is
 # GUI Screenshots
 ## Tab 1
 ![GUI Bilder](screenshots/1.JPG)
-## Art der Anlage
+## Tab 1 - Art der Anlage
 ![GUI Bilder](screenshots/2.JPG)
-## Angaben zu den Leuchten
+## Tab 2 - Angaben zu den Leuchten
 ![GUI Bilder](screenshots/3.JPG)
-## Angaben zum Lichtmanagement
+## Tab 3 - Angaben zum Lichtmanagement
 ![GUI Bilder](screenshots/4.JPG)
+## Tab 4 - Darstellung der Ergenisse
 ![GUI Bilder](screenshots/5.JPG)
 ![GUI Bilder](screenshots/6.JPG)
 ![GUI Bilder](screenshots/7.JPG)
 ![GUI Bilder](screenshots/8.JPG)
+Tab 5 - Erzeugung des Berichts
 ![GUI Bilder](screenshots/9.JPG)
+.pdf Bericht
 ![GUI Bilder](screenshots/10.JPG)
