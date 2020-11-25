@@ -37,12 +37,13 @@ Um die Bedienung möglichst einfach zu gestalten, wird dieses Tool als eine .exe
 Beim Programstart wird überprüft ob die ausgeführte Version die aktuellste ist. Falls nein, wird die aktuellste Version vom Server Heruntergeladen, die installierte Version wird deinstalliert und die heruntergeladene installiert.
 
 # GUI Screenshots
-##Tab 1
+## Tab 1
 ![GUI Bilder](screenshots/1.JPG)
-##Art der Anlage
+## Art der Anlage
 ![GUI Bilder](screenshots/2.JPG)
-##Angaben zum Lichtmanagement
+## Angaben zu den Leuchten
 ![GUI Bilder](screenshots/3.JPG)
+## Angaben zum Lichtmanagement
 ![GUI Bilder](screenshots/4.JPG)
 ![GUI Bilder](screenshots/5.JPG)
 ![GUI Bilder](screenshots/6.JPG)
