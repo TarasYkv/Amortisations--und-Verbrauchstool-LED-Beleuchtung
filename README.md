@@ -36,4 +36,15 @@ Um die Bedienung möglichst einfach zu gestalten, wird dieses Tool als eine .exe
 # Updates
 Beim Programstart wird überprüft ob die ausgeführte Version die aktuellste ist. Falls nein, wird die aktuellste Version vom Server Heruntergeladen, die installierte Version wird deinstalliert und die heruntergeladene installiert.
 
+# GUI Screenshots
+
 ![GUI Bilder](screenshots/1.JPG)
+![GUI Bilder](screenshots/2.JPG)
+![GUI Bilder](screenshots/3.JPG)
+![GUI Bilder](screenshots/4.JPG)
+![GUI Bilder](screenshots/5.JPG)
+![GUI Bilder](screenshots/6.JPG)
+![GUI Bilder](screenshots/7.JPG)
+![GUI Bilder](screenshots/8.JPG)
+![GUI Bilder](screenshots/9.JPG)
+![GUI Bilder](screenshots/10.JPG)
