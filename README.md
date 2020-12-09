@@ -17,9 +17,6 @@ Die App ist mit Python 3.7 implementiert worden. Die GUI ist mit PyQt5 umgesetzt
 # Aufbau der APP
 Die App besteht insgesamt aus 5 Tabs. Man wird vom ersten bis zum letzten Tab entlang gefuhrt. Es ist nicht möglich Tabs zu überspringen. Durch die Buttons "zurück" und "weiter" kann zwischen den Tabs navigiert werden. Den Anwender kann in der App die Ergebnisse einsehen und diese anschließend in Form einer .pdf ausgeben. 
 
-# Youtube-Video
-https://www.youtube.com/watch?v=5KxN7fzWBAc&t=10s
-
 **Tab1:**  
 Hier gibt es die Möglichkeit eine Bestandsanlage zum Vergleich aufzunehmen. Es gibt drei Modi: Kundenspezifisch, Industriebeleuchtung und Straßenbeleuchtung.   
 Kundenspezifisch: hier sind alle Daten händisch einzugeben  
@@ -33,6 +30,9 @@ Im dritten Tab werden genaue Angaben zum Betreiben des Lichtmanagementsystsems g
 Im Tab 4 werden die berechneten Ergebnisse grafisch dargestellt.  
 **Tab 5**  
 Tab 5 erzeugt eine .doc und eine .pdf mit entsprechendem Text und Bildern der Ergebnisse.  
+
+# Youtube-Video
+https://www.youtube.com/watch?v=5KxN7fzWBAc&t=10s
 
 # Installation
 Um die Bedienung möglichst einfach zu gestalten, wird dieses Tool als eine .exe zur verfügung gestellt. Diese .exe ist eine Installationsdatei welche ohne Adminrechte installiert werden kann. Die Installationsdatei wird durch "auto-py-to-exe" und "Inno Setup Compiler" erzeugt. Kein Teil der Repository, kann jedoch mit etwas Geschick durch genannte Programme erzeugt werden. 
